@@ -1,4 +1,4 @@
-package com.dconnect.discoveryserver;
+package com.dconnect.infrastructure.discoveryserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
